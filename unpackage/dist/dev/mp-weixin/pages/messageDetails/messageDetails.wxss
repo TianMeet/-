@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.ct_potho .image.data-v-30d68366 {
+  display: block;
+  margin: 0 auto;
+}
+

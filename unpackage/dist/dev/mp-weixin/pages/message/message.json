@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "诊断消息",
+  "onReachBottomDistance": 50,
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}

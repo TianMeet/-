@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.title.data-v-b237504c {
+  text-align: center;
+  font-size: 54rpx;
+  margin: 30rpx 0 30rpx 0;
+}
+.login-box.data-v-b237504c {
+  padding: 0 40rpx 0 40rpx;
+}
+.login-box .btn-box.data-v-b237504c {
+  display: flex;
+}
+.popup-success.data-v-b237504c {
+  color: #fff;
+  background-color: #e1f3d8;
+}
+.popup-error.data-v-b237504c {
+  color: #fff;
+  background-color: #fde2e2;
+}
+.message.data-v-b237504c {
+  text-align: center;
+}
+

@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.body.data-v-05b7d674 {
+  padding-left: 20rpx;
+  padding-right: 20rpx;
+  background-color: #fff;
+}
+.body .body-function.data-v-05b7d674:nth-child(1) {
+  border-bottom: 1px solid #eee;
+}
+.body .body-function.data-v-05b7d674 {
+  width: 100%;
+  height: 100rpx;
+  line-height: 100rpx;
+}
+.body .body-function navigator.data-v-05b7d674 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.header.data-v-05b7d674 {
+  background-color: #fff;
+  padding-top: 60rpx;
+  padding-bottom: 60rpx;
+  border-radius: 10rpx;
+}
+.header .header-avatar.data-v-05b7d674 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.header .header-avatar view.data-v-05b7d674 {
+  margin-top: 30rpx;
+}
+.header .header-avatar text.data-v-05b7d674 {
+  padding: 10rpx;
+  color: #999;
+}
+

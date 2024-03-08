@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/login/login",
+    "pages/message/message",
+    "pages/personPage/personPage",
+    "pages/register/register",
+    "pages/personDetails/personDetails",
+    "pages/messageDetails/messageDetails"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabbarImages/主页.png",
+        "selectedIconPath": "static/tabbarImages/主页1.png"
+      },
+      {
+        "text": "信息",
+        "pagePath": "pages/message/message",
+        "iconPath": "static/tabbarImages/信息.png",
+        "selectedIconPath": "static/tabbarImages/信息1.png"
+      },
+      {
+        "text": "个人",
+        "pagePath": "pages/personPage/personPage",
+        "iconPath": "static/tabbarImages/个人.png",
+        "selectedIconPath": "static/tabbarImages/个人1.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
